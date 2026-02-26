@@ -2,21 +2,21 @@ public class ComportamientoProyectil implements ComportamientoHabilidad {
     
     @Override
     public String atacar(String nombreAtacante, String nombreObjetivo){
-        return nombreAtacante + " le lanza su zapato a " + nombreObjetivo;
+        return nombreAtacante + " le lanza un proyectil (grande) a " + nombreObjetivo;
     }
 
     @Override
     public String defender(String nombrePersonaje){
-        return nombrePersonaje + " crea un escudo con su mugre";
+        return nombrePersonaje + " corre en círculos";
     }
     
     @Override
     public int getDanio(){
-        return 0;
+        return 6;
     }
 
     @Override
     public int getDefensa(){
-        return 0;
+        return 1;
     }
 }
