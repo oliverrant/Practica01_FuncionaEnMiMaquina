@@ -7,6 +7,13 @@ public abstract class Personaje {
     protected ComportamientoHabilidad comportamiento;
     protected CatalogoHabilidades catalogo;
 
+    public Personaje(String nombre, int puntosVida, CatalogoHabilidades catalogo) {
+        this.nombre = nombre;
+        this.puntosVida = puntosVida;
+        this.catalogo = catalogo;
+        this.comportamiento = new ComportamientoBase();
+    }
+
     public void recibirDanio(int danio){
         int vidaResultante = this.puntosVida - danio;
         this.puntosVida = vidaResultante > 0 ? vidaResultante : 0;
@@ -33,8 +40,12 @@ public abstract class Personaje {
         return this.puntosVida;
     }
 
+    public String atacar(String nombreObjetivo){
+        return comportamiento.atacar(this.nombre, nombreObjetivo);
+    }
 
+    public String defender(){
+        return comportamiento.defender(this.nombre);
+    }
 
-    public abstract String atacar();
-    public abstract String defender();
 }
