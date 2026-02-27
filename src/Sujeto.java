@@ -1,11 +1,14 @@
 /**
- * Es para 
+ * Representa al Sujeto de Observer, es decir, mantiene
+ * un conjunto de observadores interesados en sus cambios
+ * de estado, por lo que podemos registrarlos y quitarlos, 
+ * y les envía notificaciones cuando ocurre algún evento.
  */
 
 public interface Sujeto {
 
     /**
-     * Agregamos un observador a la lista.
+     * Registra un observador para que reciba notificaciones del sujeto.
      * @param o
      */
     void registrarObservador(Observador o);
@@ -17,7 +20,8 @@ public interface Sujeto {
     void quitarObservador(Observador o);
 
     /**
-     * Notificamos a todos los observadores.
+     * Notificamos a todos los observadores registrados sobre algun evento
+     * que ocurra durante la pelea.
      * @param notificacion
      */
     void notificarObservadores(String notificacion);
