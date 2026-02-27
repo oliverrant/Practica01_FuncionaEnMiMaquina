@@ -25,7 +25,9 @@ public class Espectador implements Observador{
             try{
                 bw.write(actualizacion);
                 bw.newLine();
-            // si 
+            // esto hay que hacerlo mas robusto porque puede contener 
+            // vendedor/perdedor y solo estamos contando ganador,
+            // entonces el programa se puede romper 
             if(actualizacion.contains("Ganador:")){
                 if(actualizacion.contains(personaje.getNombre())){
                     bw.write("Tu personaje gano");
