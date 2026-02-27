@@ -19,9 +19,9 @@ public abstract class Personaje {
         this.puntosVida = vidaResultante > 0 ? vidaResultante : 0;
     }
 
-    public void adquirirPoder(){
+    public void adquirirPoder(Random random){
         List<ComportamientoHabilidad> opciones = catalogo.getHabilidades();
-        this.comportamiento = opciones.get(new Random().nextInt(opciones.size()));
+        this.comportamiento = opciones.get(random.nextInt(opciones.size()));
     }
   
     public boolean estaVivo(){

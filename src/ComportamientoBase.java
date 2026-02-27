@@ -13,6 +13,13 @@ public class ComportamientoBase implements ComportamientoHabilidad{
      * @param nombreObjetivo nombre del personaje que recibe el ataque
      * @return mensaje descriptivo del ataque
      */
+    private String nombre = "Habilidades Basicas";
+   
+     @Override
+    public String getNombre() {
+        return nombre;
+    }
+
     @Override
     public String atacar(String nombreAtacante, String nombreObjetivo) {
         return nombreAtacante + " lanza un ataque básico a " + nombreObjetivo;

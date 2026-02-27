@@ -13,4 +13,5 @@ public interface Observador {
      */
     void recibirActualizacion(String actualizacion);
     
+    void cerrarBitacora(String nombreGanador);
 }

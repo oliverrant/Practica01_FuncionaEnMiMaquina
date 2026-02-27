@@ -10,11 +10,10 @@ import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
 
-public class Espectador implements Observador{
-    private int id;
-    private Personaje personaje;
-    private BufferedWriter bw;
-    private boolean combateTerminado;
+public class ObservadorConcreto implements Observador{
+    private String id;
+    private Personaje personajeFavorito;
+    private BufferedWriter escritorBitacora;
 
     /**
      * Crea un nuevo espectador asociado a un personaje.
@@ -23,12 +22,14 @@ public class Espectador implements Observador{
      * @param id identificador del espectador (usado para nombrar la bitácora)
      * @param personaje personaje al que el espectador sigue durante el combate
     */
-    public Espectador(int id, Personaje personaje){
+    public ObservadorConcreto(String id, Personaje personajeFavorito){
         this.id = id;
-        this.personaje = personaje;
+        this.personajeFavorito = personajeFavorito;
 
         try {
-            this.bw = new BufferedWriter(new FileWriter(id + "_bitacora.txt"));
+            escritorBitacora = new BufferedWriter(new FileWriter(id + "_bitacora.txt"));
+            escritorBitacora.write("Bitácora del espectador: " + id + "\n");
+            escritorBitacora.write("Personaje favorito: " + personajeFavorito + "\n\n");
             } catch (IOException e) {
                 System.out.println("Error al crear la bitacora");
             }
@@ -43,38 +44,27 @@ public class Espectador implements Observador{
      * @param actualizacion mensaje enviado por el sujeto (Combate)
      */
     @Override public void recibirActualizacion(String actualizacion){
-        if (combateTerminado) return;
-        if(bw != null){
-            try{
-                bw.write(actualizacion);
-                bw.newLine();
-            if(actualizacion.contains("Ganador:")){
-                if(actualizacion.contains(personaje.getNombre())){
-                    bw.write("Tu personaje gano");
-                } else {
-                    bw.write("Tu personaje perdio");
-                }
-                bw.newLine();
-                combateTerminado = true;
-            }
-            bw.flush();
+        try {
+            escritorBitacora.write(actualizacion + "\n");
         } catch (IOException e) {
-                System.out.println("Error al escribir en la bitacora");
-            }
+            System.out.println("Error al actualizar la bitacora");
         }
+        
     }
 
     /**
      * Cierra la bitácora asociada al espectador.
      */
-    public void cerrarBitacora(){
-        if(bw != null){
-            try {
-                bw.close();
-            } catch (Exception e) {
-                System.out.println("Error al cerrar");
+    public void cerrarBitacora(String nombreGanador){
+        try {
+            if (nombreGanador.equals(personajeFavorito.getNombre())) {
+                escritorBitacora.write("\n¡Tu personaje favorito " + personajeFavorito.getNombre() + " ganó el combate!");
+            } else {
+                escritorBitacora.write("\nTu personaje favorito " + personajeFavorito.getNombre()+ " perdió el combate." + nombreGanador + " ganó el combate.");
             }
-            
+            escritorBitacora.close();
+        } catch (IOException e) {
+            System.out.println("Error al escribir el ganador en la bitacora");
         }
     }
 

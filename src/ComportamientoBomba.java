@@ -4,7 +4,14 @@
  * Proporciona un ataque con bombas de agua y una defensa alta.
  */
 public class ComportamientoBomba implements ComportamientoHabilidad{
+
+    private String nombre = "Habilidades Bomba";
    
+     @Override
+    public String getNombre() {
+        return nombre;
+    }
+
     /**
      * Genera el mensaje de ataque con bombas.
      *

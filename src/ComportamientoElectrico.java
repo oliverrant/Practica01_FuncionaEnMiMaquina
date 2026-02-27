@@ -6,6 +6,13 @@
  */
 public class ComportamientoElectrico implements ComportamientoHabilidad {
     
+    private String nombre = "Habilidades Electricas";
+   
+     @Override
+    public String getNombre() {
+        return nombre;
+    }
+
     /**
      * Genera el mensaje de ataque eléctrico.
      *

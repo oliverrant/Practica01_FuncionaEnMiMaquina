@@ -13,6 +13,13 @@ public class ComportamientoProyectil implements ComportamientoHabilidad {
      * @param nombreObjetivo nombre del personaje objetivo
      * @return mensaje descriptivo del ataque
      */
+    private String nombre = "Habilidades Proyectil";
+   
+     @Override
+    public String getNombre() {
+        return nombre;
+    }
+
     @Override
     public String atacar(String nombreAtacante, String nombreObjetivo){
         return nombreAtacante + " le lanza un proyectil (grande) a " + nombreObjetivo;
