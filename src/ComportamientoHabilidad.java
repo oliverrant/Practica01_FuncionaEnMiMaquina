@@ -4,5 +4,5 @@ public interface ComportamientoHabilidad {
     String defender(String nombrePersonaje);
     int getDanio();
     int getDefensa();
-    
+    String getNombre();
 }

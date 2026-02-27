@@ -1,0 +1,365 @@
+Bitácora del espectador: jugador007
+Personaje favorito: Korby@6d06d69c
+
+¡El combate ha comenzado!
+--- Ronda 1 ---
+MeganMan ha consumido un poder y ahora usa Habilidades Electricas
+Korby lanza un ataque básico a Dittuu
+Dittuu se defiende de forma básica
+Dittuu recibe 1 puntos de daño. Le quedan 99 puntos de vida.
+MeganMan lanza rayos electricos a Korby
+Korby se defiende de forma básica
+Korby recibe 9 puntos de daño. Le quedan 91 puntos de vida.
+Dittuu lanza un ataque básico a MeganMan
+MeganMan se hace fantasma
+MeganMan recibe 0 puntos de daño. Le quedan 100 puntos de vida.
+
+--- Ronda 2 ---
+Korby ha consumido un poder y ahora usa Habilidades Bomba
+Korby le lanza bombas (de agua) a MeganMan
+MeganMan se hace fantasma
+MeganMan recibe 0 puntos de daño. Le quedan 100 puntos de vida.
+MeganMan lanza rayos electricos a Dittuu
+Dittuu se defiende de forma básica
+Dittuu recibe 9 puntos de daño. Le quedan 90 puntos de vida.
+Dittuu lanza un ataque básico a Korby
+Korby abre su paraguas
+Korby recibe 0 puntos de daño. Le quedan 91 puntos de vida.
+
+--- Ronda 3 ---
+MeganMan ha consumido un poder y ahora usa Habilidades Electricas
+Korby le lanza bombas (de agua) a MeganMan
+MeganMan se hace fantasma
+MeganMan recibe 0 puntos de daño. Le quedan 100 puntos de vida.
+MeganMan lanza rayos electricos a Korby
+Korby abre su paraguas
+Korby recibe 0 puntos de daño. Le quedan 91 puntos de vida.
+Dittuu lanza un ataque básico a MeganMan
+MeganMan se hace fantasma
+MeganMan recibe 0 puntos de daño. Le quedan 100 puntos de vida.
+
+--- Ronda 4 ---
+Korby ha consumido un poder y ahora usa Habilidades Bomba
+MeganMan ha consumido un poder y ahora usa Habilidades Electricas
+Korby le lanza bombas (de agua) a MeganMan
+MeganMan se hace fantasma
+MeganMan recibe 0 puntos de daño. Le quedan 100 puntos de vida.
+MeganMan lanza rayos electricos a Dittuu
+Dittuu se defiende de forma básica
+Dittuu recibe 9 puntos de daño. Le quedan 81 puntos de vida.
+Dittuu lanza un ataque básico a MeganMan
+MeganMan se hace fantasma
+MeganMan recibe 0 puntos de daño. Le quedan 100 puntos de vida.
+
+--- Ronda 5 ---
+Korby le lanza bombas (de agua) a MeganMan
+MeganMan se hace fantasma
+MeganMan recibe 0 puntos de daño. Le quedan 100 puntos de vida.
+MeganMan lanza rayos electricos a Dittuu
+Dittuu se defiende de forma básica
+Dittuu recibe 9 puntos de daño. Le quedan 72 puntos de vida.
+Dittuu lanza un ataque básico a Korby
+Korby abre su paraguas
+Korby recibe 0 puntos de daño. Le quedan 91 puntos de vida.
+
+--- Ronda 6 ---
+Korby le lanza bombas (de agua) a MeganMan
+MeganMan se hace fantasma
+MeganMan recibe 0 puntos de daño. Le quedan 100 puntos de vida.
+MeganMan lanza rayos electricos a Dittuu
+Dittuu se defiende de forma básica
+Dittuu recibe 9 puntos de daño. Le quedan 63 puntos de vida.
+Dittuu lanza un ataque básico a MeganMan
+MeganMan se hace fantasma
+MeganMan recibe 0 puntos de daño. Le quedan 100 puntos de vida.
+
+--- Ronda 7 ---
+Dittuu ha consumido un poder y ahora usa Habilidades Zapato
+Korby le lanza bombas (de agua) a Dittuu
+Dittuu le lanza su zapato también xd
+Dittuu recibe 0 puntos de daño. Le quedan 63 puntos de vida.
+MeganMan lanza rayos electricos a Korby
+Korby abre su paraguas
+Korby recibe 0 puntos de daño. Le quedan 91 puntos de vida.
+Dittuu le lanza su zapato a MeganMan
+MeganMan se hace fantasma
+MeganMan recibe 0 puntos de daño. Le quedan 100 puntos de vida.
+
+--- Ronda 8 ---
+Korby ha consumido un poder y ahora usa Habilidades Cuchillo
+MeganMan ha consumido un poder y ahora usa Habilidades Proyectil
+Korby le lanza varios cuchillos, uno tras otro, a MeganMan
+MeganMan corre en círculos
+MeganMan recibe 8 puntos de daño. Le quedan 92 puntos de vida.
+MeganMan le lanza un proyectil (grande) a Dittuu
+Dittuu le lanza su zapato también xd
+Dittuu recibe 1 puntos de daño. Le quedan 62 puntos de vida.
+Dittuu le lanza su zapato a Korby
+Korby los esquiva
+Korby recibe 2 puntos de daño. Le quedan 89 puntos de vida.
+
+--- Ronda 9 ---
+MeganMan ha consumido un poder y ahora usa Habilidades hipnóticas
+Korby le lanza varios cuchillos, uno tras otro, a Dittuu
+Dittuu le lanza su zapato también xd
+Dittuu recibe 4 puntos de daño. Le quedan 58 puntos de vida.
+MeganMan hipnotiza con serpientes a Korby
+Korby los esquiva
+Korby recibe 6 puntos de daño. Le quedan 83 puntos de vida.
+Dittuu le lanza su zapato a Korby
+Korby los esquiva
+Korby recibe 2 puntos de daño. Le quedan 81 puntos de vida.
+
+--- Ronda 10 ---
+Korby le lanza varios cuchillos, uno tras otro, a Dittuu
+Dittuu le lanza su zapato también xd
+Dittuu recibe 4 puntos de daño. Le quedan 54 puntos de vida.
+MeganMan hipnotiza con serpientes a Korby
+Korby los esquiva
+Korby recibe 6 puntos de daño. Le quedan 75 puntos de vida.
+Dittuu le lanza su zapato a Korby
+Korby los esquiva
+Korby recibe 2 puntos de daño. Le quedan 73 puntos de vida.
+
+--- Ronda 11 ---
+Korby le lanza varios cuchillos, uno tras otro, a Dittuu
+Dittuu le lanza su zapato también xd
+Dittuu recibe 4 puntos de daño. Le quedan 50 puntos de vida.
+MeganMan hipnotiza con serpientes a Dittuu
+Dittuu le lanza su zapato también xd
+Dittuu recibe 4 puntos de daño. Le quedan 46 puntos de vida.
+Dittuu le lanza su zapato a MeganMan
+MeganMan parpadea muchas veces
+MeganMan recibe 5 puntos de daño. Le quedan 87 puntos de vida.
+
+--- Ronda 12 ---
+Korby le lanza varios cuchillos, uno tras otro, a Dittuu
+Dittuu le lanza su zapato también xd
+Dittuu recibe 4 puntos de daño. Le quedan 42 puntos de vida.
+MeganMan hipnotiza con serpientes a Dittuu
+Dittuu le lanza su zapato también xd
+Dittuu recibe 4 puntos de daño. Le quedan 38 puntos de vida.
+Dittuu le lanza su zapato a MeganMan
+MeganMan parpadea muchas veces
+MeganMan recibe 5 puntos de daño. Le quedan 82 puntos de vida.
+
+--- Ronda 13 ---
+Dittuu ha consumido un poder y ahora usa Habilidades de Fuego
+Korby le lanza varios cuchillos, uno tras otro, a MeganMan
+MeganMan parpadea muchas veces
+MeganMan recibe 9 puntos de daño. Le quedan 73 puntos de vida.
+MeganMan hipnotiza con serpientes a Korby
+Korby los esquiva
+Korby recibe 6 puntos de daño. Le quedan 67 puntos de vida.
+Dittuu le lanza bolas de fuego a Korby
+Korby los esquiva
+Korby recibe 7 puntos de daño. Le quedan 60 puntos de vida.
+
+--- Ronda 14 ---
+Korby ha consumido un poder y ahora usa Habilidades Bomba
+Korby le lanza bombas (de agua) a MeganMan
+MeganMan parpadea muchas veces
+MeganMan recibe 2 puntos de daño. Le quedan 71 puntos de vida.
+MeganMan hipnotiza con serpientes a Korby
+Korby abre su paraguas
+Korby recibe 0 puntos de daño. Le quedan 60 puntos de vida.
+Dittuu le lanza bolas de fuego a Korby
+Korby abre su paraguas
+Korby recibe 0 puntos de daño. Le quedan 60 puntos de vida.
+
+--- Ronda 15 ---
+MeganMan ha consumido un poder y ahora usa Habilidades hipnóticas
+Korby le lanza bombas (de agua) a MeganMan
+MeganMan parpadea muchas veces
+MeganMan recibe 2 puntos de daño. Le quedan 69 puntos de vida.
+MeganMan hipnotiza con serpientes a Dittuu
+Dittuu crea un escudo impenetrable con su mugre de no bañarse hace 99 años
+Dittuu recibe 2 puntos de daño. Le quedan 36 puntos de vida.
+Dittuu le lanza bolas de fuego a Korby
+Korby abre su paraguas
+Korby recibe 0 puntos de daño. Le quedan 60 puntos de vida.
+
+--- Ronda 16 ---
+Korby le lanza bombas (de agua) a MeganMan
+MeganMan parpadea muchas veces
+MeganMan recibe 2 puntos de daño. Le quedan 67 puntos de vida.
+MeganMan hipnotiza con serpientes a Dittuu
+Dittuu crea un escudo impenetrable con su mugre de no bañarse hace 99 años
+Dittuu recibe 2 puntos de daño. Le quedan 34 puntos de vida.
+Dittuu le lanza bolas de fuego a Korby
+Korby abre su paraguas
+Korby recibe 0 puntos de daño. Le quedan 60 puntos de vida.
+
+--- Ronda 17 ---
+Korby ha consumido un poder y ahora usa Habilidades Cuchillo
+MeganMan ha consumido un poder y ahora usa Habilidades Electricas
+Korby le lanza varios cuchillos, uno tras otro, a Dittuu
+Dittuu crea un escudo impenetrable con su mugre de no bañarse hace 99 años
+Dittuu recibe 2 puntos de daño. Le quedan 32 puntos de vida.
+MeganMan lanza rayos electricos a Dittuu
+Dittuu crea un escudo impenetrable con su mugre de no bañarse hace 99 años
+Dittuu recibe 3 puntos de daño. Le quedan 29 puntos de vida.
+Dittuu le lanza bolas de fuego a MeganMan
+MeganMan se hace fantasma
+MeganMan recibe 0 puntos de daño. Le quedan 67 puntos de vida.
+
+--- Ronda 18 ---
+MeganMan ha consumido un poder y ahora usa Habilidades Proyectil
+Dittuu ha consumido un poder y ahora usa Habilidades Zapato
+Korby le lanza varios cuchillos, uno tras otro, a Dittuu
+Dittuu le lanza su zapato también xd
+Dittuu recibe 4 puntos de daño. Le quedan 25 puntos de vida.
+MeganMan le lanza un proyectil (grande) a Dittuu
+Dittuu le lanza su zapato también xd
+Dittuu recibe 1 puntos de daño. Le quedan 24 puntos de vida.
+Dittuu le lanza su zapato a MeganMan
+MeganMan corre en círculos
+MeganMan recibe 4 puntos de daño. Le quedan 63 puntos de vida.
+
+--- Ronda 19 ---
+Korby le lanza varios cuchillos, uno tras otro, a Dittuu
+Dittuu le lanza su zapato también xd
+Dittuu recibe 4 puntos de daño. Le quedan 20 puntos de vida.
+MeganMan le lanza un proyectil (grande) a Dittuu
+Dittuu le lanza su zapato también xd
+Dittuu recibe 1 puntos de daño. Le quedan 19 puntos de vida.
+Dittuu le lanza su zapato a MeganMan
+MeganMan corre en círculos
+MeganMan recibe 4 puntos de daño. Le quedan 59 puntos de vida.
+
+--- Ronda 20 ---
+Korby le lanza varios cuchillos, uno tras otro, a MeganMan
+MeganMan corre en círculos
+MeganMan recibe 8 puntos de daño. Le quedan 51 puntos de vida.
+MeganMan le lanza un proyectil (grande) a Dittuu
+Dittuu le lanza su zapato también xd
+Dittuu recibe 1 puntos de daño. Le quedan 18 puntos de vida.
+Dittuu le lanza su zapato a MeganMan
+MeganMan corre en círculos
+MeganMan recibe 4 puntos de daño. Le quedan 47 puntos de vida.
+
+--- Ronda 21 ---
+Korby ha consumido un poder y ahora usa Habilidades de Sueño
+MeganMan ha consumido un poder y ahora usa Habilidades Electricas
+Korby pone a ver One Piezzzzzz a MeganMan
+MeganMan se hace fantasma
+MeganMan recibe 0 puntos de daño. Le quedan 47 puntos de vida.
+MeganMan lanza rayos electricos a Korby
+Korby se tapa los oidos
+Korby recibe 10 puntos de daño. Le quedan 50 puntos de vida.
+Dittuu le lanza su zapato a MeganMan
+MeganMan se hace fantasma
+MeganMan recibe 0 puntos de daño. Le quedan 47 puntos de vida.
+
+--- Ronda 22 ---
+Dittuu ha consumido un poder y ahora usa Habilidades Bruja
+Korby pone a ver One Piezzzzzz a Dittuu
+Dittuu se come una hierba magica que es la cura
+Dittuu recibe 4 puntos de daño. Le quedan 14 puntos de vida.
+MeganMan lanza rayos electricos a Dittuu
+Dittuu se come una hierba magica que es la cura
+Dittuu recibe 10 puntos de daño. Le quedan 4 puntos de vida.
+Dittuu le lanza un hechizo a Korby y lo convierte en una rana
+Korby se tapa los oidos
+Korby recibe 0 puntos de daño. Le quedan 50 puntos de vida.
+
+--- Ronda 23 ---
+MeganMan ha consumido un poder y ahora usa Habilidades Proyectil
+Dittuu ha consumido un poder y ahora usa Habilidades Zapato
+Korby pone a ver One Piezzzzzz a MeganMan
+MeganMan corre en círculos
+MeganMan recibe 3 puntos de daño. Le quedan 44 puntos de vida.
+MeganMan le lanza un proyectil (grande) a Dittuu
+Dittuu le lanza su zapato también xd
+Dittuu recibe 1 puntos de daño. Le quedan 3 puntos de vida.
+Dittuu le lanza su zapato a MeganMan
+MeganMan corre en círculos
+MeganMan recibe 4 puntos de daño. Le quedan 40 puntos de vida.
+
+--- Ronda 24 ---
+MeganMan ha consumido un poder y ahora usa Habilidades hipnóticas
+Korby pone a ver One Piezzzzzz a MeganMan
+MeganMan parpadea muchas veces
+MeganMan recibe 4 puntos de daño. Le quedan 36 puntos de vida.
+MeganMan hipnotiza con serpientes a Korby
+Korby se tapa los oidos
+Korby recibe 9 puntos de daño. Le quedan 41 puntos de vida.
+Dittuu le lanza su zapato a MeganMan
+MeganMan parpadea muchas veces
+MeganMan recibe 5 puntos de daño. Le quedan 31 puntos de vida.
+
+--- Ronda 25 ---
+Dittuu ha consumido un poder y ahora usa Habilidades Bruja
+Korby pone a ver One Piezzzzzz a Dittuu
+Dittuu se come una hierba magica que es la cura
+Dittuu recibe 4 puntos de daño. Le quedan 0 puntos de vida.
+MeganMan hipnotiza con serpientes a Korby
+Korby se tapa los oidos
+Korby recibe 9 puntos de daño. Le quedan 32 puntos de vida.
+
+--- Ronda 26 ---
+MeganMan ha consumido un poder y ahora usa Habilidades Electricas
+Korby pone a ver One Piezzzzzz a MeganMan
+MeganMan se hace fantasma
+MeganMan recibe 0 puntos de daño. Le quedan 31 puntos de vida.
+MeganMan lanza rayos electricos a Korby
+Korby se tapa los oidos
+Korby recibe 10 puntos de daño. Le quedan 22 puntos de vida.
+
+--- Ronda 27 ---
+Korby ha consumido un poder y ahora usa Habilidades Cuchillo
+Korby le lanza varios cuchillos, uno tras otro, a MeganMan
+MeganMan se hace fantasma
+MeganMan recibe 0 puntos de daño. Le quedan 31 puntos de vida.
+MeganMan lanza rayos electricos a Korby
+Korby los esquiva
+Korby recibe 7 puntos de daño. Le quedan 15 puntos de vida.
+
+--- Ronda 28 ---
+Korby ha consumido un poder y ahora usa Habilidades Bomba
+Korby le lanza bombas (de agua) a MeganMan
+MeganMan se hace fantasma
+MeganMan recibe 0 puntos de daño. Le quedan 31 puntos de vida.
+MeganMan lanza rayos electricos a Korby
+Korby abre su paraguas
+Korby recibe 0 puntos de daño. Le quedan 15 puntos de vida.
+
+--- Ronda 29 ---
+Korby ha consumido un poder y ahora usa Habilidades Cuchillo
+MeganMan ha consumido un poder y ahora usa Habilidades Proyectil
+Korby le lanza varios cuchillos, uno tras otro, a MeganMan
+MeganMan corre en círculos
+MeganMan recibe 8 puntos de daño. Le quedan 23 puntos de vida.
+MeganMan le lanza un proyectil (grande) a Korby
+Korby los esquiva
+Korby recibe 3 puntos de daño. Le quedan 12 puntos de vida.
+
+--- Ronda 30 ---
+Korby le lanza varios cuchillos, uno tras otro, a MeganMan
+MeganMan corre en círculos
+MeganMan recibe 8 puntos de daño. Le quedan 15 puntos de vida.
+MeganMan le lanza un proyectil (grande) a Korby
+Korby los esquiva
+Korby recibe 3 puntos de daño. Le quedan 9 puntos de vida.
+
+--- Ronda 31 ---
+MeganMan ha consumido un poder y ahora usa Habilidades Electricas
+Korby le lanza varios cuchillos, uno tras otro, a MeganMan
+MeganMan se hace fantasma
+MeganMan recibe 0 puntos de daño. Le quedan 15 puntos de vida.
+MeganMan lanza rayos electricos a Korby
+Korby los esquiva
+Korby recibe 7 puntos de daño. Le quedan 2 puntos de vida.
+
+--- Ronda 32 ---
+MeganMan ha consumido un poder y ahora usa Habilidades Proyectil
+Korby le lanza varios cuchillos, uno tras otro, a MeganMan
+MeganMan corre en círculos
+MeganMan recibe 8 puntos de daño. Le quedan 7 puntos de vida.
+MeganMan le lanza un proyectil (grande) a Korby
+Korby los esquiva
+Korby recibe 3 puntos de daño. Le quedan 0 puntos de vida.
+
+¡El combate ha terminado! El ganador es MeganMan
+
+Tu personaje favorito Korby perdió el combate.MeganMan ganó el combate.

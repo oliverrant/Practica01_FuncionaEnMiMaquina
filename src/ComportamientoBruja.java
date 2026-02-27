@@ -6,6 +6,13 @@
  */
 public class ComportamientoBruja implements ComportamientoHabilidad{
     
+    private String nombre = "Habilidades Bruja";
+   
+     @Override
+    public String getNombre() {
+        return nombre;
+    }
+
     /**
      * Genera el mensaje de ataque con hechizo.
      *

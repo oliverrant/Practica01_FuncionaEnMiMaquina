@@ -6,6 +6,13 @@
  */
 public class ComportamientoSuenio implements ComportamientoHabilidad{
     
+    private String nombre = "Habilidades de Sueño";
+   
+     @Override
+    public String getNombre() {
+        return nombre;
+    }
+
     /**
      * Genera el mensaje de ataque para inducir sueño.
      *
@@ -15,7 +22,7 @@ public class ComportamientoSuenio implements ComportamientoHabilidad{
      */
     @Override
     public String atacar(String nombreAtacante, String nombreObjetivo){
-        return nombreAtacante + " le canta una canción para dormir a " + nombreObjetivo;
+        return nombreAtacante + " pone a ver One Piezzzzzz a " + nombreObjetivo;
     }
 
     /**

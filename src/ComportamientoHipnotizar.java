@@ -6,6 +6,13 @@
  */
 public class ComportamientoHipnotizar implements ComportamientoHabilidad {
     
+    private String nombre = "Habilidades hipnóticas";
+   
+     @Override
+    public String getNombre() {
+        return nombre;
+    }
+
     /**
      * Genera el mensaje de ataque hipnótico.
      *

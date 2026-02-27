@@ -1,5 +1,12 @@
 public class ComportamientoProyectil implements ComportamientoHabilidad {
     
+    private String nombre = "Habilidades Proyectil";
+   
+     @Override
+    public String getNombre() {
+        return nombre;
+    }
+
     @Override
     public String atacar(String nombreAtacante, String nombreObjetivo){
         return nombreAtacante + " le lanza un proyectil (grande) a " + nombreObjetivo;

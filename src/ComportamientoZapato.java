@@ -6,6 +6,13 @@
  */
 public class ComportamientoZapato implements ComportamientoHabilidad{
     
+    private String nombre = "Habilidades Zapato";
+   
+     @Override
+    public String getNombre() {
+        return nombre;
+    }
+
     /**
      * Genera el mensaje de ataque con zapato.
      *

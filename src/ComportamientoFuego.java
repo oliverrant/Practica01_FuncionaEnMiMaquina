@@ -6,6 +6,13 @@
  */
 public class ComportamientoFuego implements ComportamientoHabilidad {
 
+    private String nombre = "Habilidades de Fuego";
+   
+     @Override
+    public String getNombre() {
+        return nombre;
+    }
+
     /**
      * Genera el mensaje de ataque con fuego.
      *
