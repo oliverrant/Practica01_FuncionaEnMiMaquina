@@ -1,5 +1,7 @@
 /**
- * Interfaz para registrar y remover observadores.
+ * Representa al Observador en Observer, el cual se suscribe 
+ * a un sujeto para recibir notificaciones cuando ocurre algún 
+ * cambio o evento relevante en él.
  */
 public interface Observador {
 

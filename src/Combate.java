@@ -14,6 +14,7 @@ public class Combate implements Sujeto{
 
     /**
      * Quita al observador.
+     * 
      * @param o observador que ve el combate.
      */
     @Override public void quitarObservador(Observador o){
@@ -23,6 +24,7 @@ public class Combate implements Sujeto{
     /**
      * Agrega un observador a la lista para que reciba 
      * actualizaciones del combate.
+     * 
      * @param o observador que ve el combate.
      */
     @Override public void registrarObservador(Observador o){
@@ -32,6 +34,7 @@ public class Combate implements Sujeto{
     /**
      * Notifica a todos los observadores registrados sobre algun
      * evento que ocurra durante el combate.
+     * 
      * @param notificacion es lo que sucede en el combate.
      */
     @Override public void notificarObservadores(String notificacion){

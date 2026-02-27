@@ -9,19 +9,22 @@ public interface Sujeto {
 
     /**
      * Registra un observador para que reciba notificaciones del sujeto.
-     * @param o
+     * 
+     * @param o el observador.
      */
     void registrarObservador(Observador o);
 
     /**
      * Eliminamos un observador de la lista.
-     * @param o
+     * 
+     * @param o el observador.
      */
     void quitarObservador(Observador o);
 
     /**
-     * Notificamos a todos los observadores registrados sobre algun evento
-     * que ocurra durante la pelea.
+     * Notificamos a todos los observadores registrados sobre 
+     * algun evento que ocurra durante la pelea.
+     * 
      * @param notificacion
      */
     void notificarObservadores(String notificacion);
