@@ -2,7 +2,7 @@ import java.util.List;
 import java.util.Random;
 
 public abstract class Personaje {
-        protected String nombre;
+    protected String nombre;
     protected int puntosVida;
     protected ComportamientoHabilidad comportamiento;
     protected CatalogoHabilidades catalogo;
