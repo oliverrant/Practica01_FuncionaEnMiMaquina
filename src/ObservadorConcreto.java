@@ -1,5 +1,5 @@
 /**
- * Clase Espectador que representa al espectador en Observer, que lo
+ * Clase ObservadorConcreto que representa al espectador en Observer, que lo
  * que hace es observar el desarrollo del combate y registrar en una
  * bitácora (archivo de texto) todas las actualizaciones recibidas.
  * Cuando detecta que el combate ha finalizado, escribe el resultado
@@ -54,13 +54,15 @@ public class ObservadorConcreto implements Observador{
 
     /**
      * Cierra la bitácora asociada al espectador.
+     * 
+     * @param nombreGanador es el nombre que escribimos en la bitacora.
      */
     public void cerrarBitacora(String nombreGanador){
         try {
             if (nombreGanador.equals(personajeFavorito.getNombre())) {
-                escritorBitacora.write("\n¡Tu personaje favorito " + personajeFavorito.getNombre() + " ganó el combate!");
+                escritorBitacora.write("\n¡Tu personaje favorito " + personajeFavorito.getNombre() + " gano el combate!");
             } else {
-                escritorBitacora.write("\nTu personaje favorito " + personajeFavorito.getNombre()+ " perdió el combate." + nombreGanador + " ganó el combate.");
+                escritorBitacora.write("\nTu personaje favorito " + personajeFavorito.getNombre()+ " perdio el combate." + nombreGanador + " gano el combate.");
             }
             escritorBitacora.close();
         } catch (IOException e) {

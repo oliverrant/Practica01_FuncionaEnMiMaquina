@@ -7,11 +7,16 @@ public interface Observador {
 
 
     /**
-     * El método recibe la actualización de lo que está pasando.
+     * El metodo recibe la actualización de lo que está pasando.
      * @param actualizacion. Es la descripción de lo que está 
-     * pasando en la pelea.
+     * pasando en el combate.
      */
     void recibirActualizacion(String actualizacion);
     
+    /**
+     * El metodo recibe el nombre del ganador.
+     * 
+     * @param nombreGanador del combate
+     */
     void cerrarBitacora(String nombreGanador);
 }
