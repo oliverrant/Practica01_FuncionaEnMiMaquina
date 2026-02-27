@@ -3,19 +3,26 @@ import java.util.List;
 
 public class Combate implements Sujeto{
     
-    private List<Observador> espectadores = new ArrayList<>();
+    private List<Observador> observadores = new ArrayList<>();
 
     @Override public void quitarObservador(Observador o){
-        espectadores.remove(o);
+        observadores.remove(o);
     }
 
     @Override public void registrarObservador(Observador o){
-        espectadores.add(o);
+        observadores.add(o);
     }
     
     @Override public void notificarObservadores(String notificacion){
-        for (Observador observador : espectadores) {
+        for (Observador observador : observadores) {
             observador.recibirActualizacion(notificacion);
         }
+    }
+
+    /**
+     * Simulamos el combate.
+     */
+    public void simular(){
+
     }
 }
