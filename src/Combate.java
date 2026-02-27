@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import java.util.ArrayList;
 import java.util.List;
 
@@ -19,8 +18,4 @@ public class Combate implements Sujeto{
             observador.recibirActualizacion(notificacion);
         }
     }
-=======
-public class Combate {
-    
->>>>>>> 16d6634381e5288c164f7d54b76ea50939ac0b33
 }
