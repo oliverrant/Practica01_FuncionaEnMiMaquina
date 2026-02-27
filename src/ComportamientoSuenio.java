@@ -1,20 +1,49 @@
+/**
+ * Implementación de una habilidad de tipo sueño.
+ * 
+ * Representa un ataque que induce al sueño
+ * y una defensa basada en bloquear el sonido.
+ */
 public class ComportamientoSuenio implements ComportamientoHabilidad{
     
+    /**
+     * Genera el mensaje de ataque para inducir sueño.
+     *
+     * @param nombreAtacante nombre del personaje que ataca
+     * @param nombreObjetivo nombre del personaje objetivo
+     * @return mensaje descriptivo del ataque
+     */
     @Override
     public String atacar(String nombreAtacante, String nombreObjetivo){
         return nombreAtacante + " le canta una canción para dormir a " + nombreObjetivo;
     }
 
+    /**
+     * Genera el mensaje de defensa.
+     *
+     * @param nombrePersonaje nombre del personaje que se defiende
+     * @return mensaje descriptivo de la defensa
+     */
     @Override
     public String defender(String nombrePersonaje){
         return nombrePersonaje + " se tapa los oidos";
     }
     
+    /**
+     * Devuelve el daño de la habilidad.
+     *
+     * @return valor de daño
+     */
     @Override
     public int getDanio(){
         return 4;
     }
 
+    /**
+     * Devuelve el valor de defensa de la habilidad.
+     *
+     * @return valor de defensa
+     */
     @Override
     public int getDefensa(){
         return 0;
