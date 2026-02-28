@@ -1,3 +1,7 @@
+import java.io.BufferedWriter;
+import java.io.FileWriter;
+import java.io.IOException;
+
 /**
  * Clase ObservadorConcreto que representa al espectador en Observer, que lo
  * que hace es observar el desarrollo del combate y registrar en una
@@ -5,11 +9,6 @@
  * Cuando detecta que el combate ha finalizado, escribe el resultado
  * correspondiente a su personaje y deja de registrar eventos.
  */
-
-import java.io.BufferedWriter;
-import java.io.FileWriter;
-import java.io.IOException;
-
 public class ObservadorConcreto implements Observador{
     private String id;
     private Personaje personajeFavorito;

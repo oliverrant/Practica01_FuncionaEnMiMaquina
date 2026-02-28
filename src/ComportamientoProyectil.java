@@ -33,7 +33,7 @@ public class ComportamientoProyectil implements ComportamientoHabilidad {
      */
     @Override
     public String defender(String nombrePersonaje){
-        return nombrePersonaje + " corre en círculos";
+        return nombrePersonaje + " hace malabares con proyectiles (chiquitos)";
     }
     
     /**

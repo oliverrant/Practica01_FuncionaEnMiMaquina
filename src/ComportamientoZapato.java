@@ -33,7 +33,7 @@ public class ComportamientoZapato implements ComportamientoHabilidad{
      */
     @Override
     public String defender(String nombrePersonaje){
-        return nombrePersonaje + " le lanza su zapato también xd";
+        return nombrePersonaje + " se cubre con su zapato";
     }
     
     /**

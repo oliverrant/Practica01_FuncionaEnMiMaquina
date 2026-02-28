@@ -33,7 +33,7 @@ public class ComportamientoSuenio implements ComportamientoHabilidad{
      */
     @Override
     public String defender(String nombrePersonaje){
-        return nombrePersonaje + " se tapa los oidos";
+        return nombrePersonaje + " se duerme un ratito";
     }
     
     /**

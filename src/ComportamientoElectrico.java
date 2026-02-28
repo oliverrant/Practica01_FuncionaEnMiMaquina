@@ -33,7 +33,7 @@ public class ComportamientoElectrico implements ComportamientoHabilidad {
      */
     @Override
     public String defender(String nombrePersonaje){
-        return nombrePersonaje + " se hace fantasma";
+        return nombrePersonaje + " se hace electrocutante a todo aquel que vea";
     }
     
     /**

@@ -32,7 +32,7 @@ public class ComportamientoBomba implements ComportamientoHabilidad{
      */
     @Override
     public String defender(String nombrePersonaje){
-        return nombrePersonaje + " abre su paraguas";
+        return nombrePersonaje + " abre su paraguas como escudo";
     }
 
     /**

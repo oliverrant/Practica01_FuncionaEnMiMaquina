@@ -33,7 +33,7 @@ public class ComportamientoBruja implements ComportamientoHabilidad{
      */
     @Override
     public String defender(String nombrePersonaje){
-        return nombrePersonaje + " se come una hierba magica que es la cura";
+        return nombrePersonaje + " se come una hierba magica que lo hace inmune a todo";
     }
     
     /**
