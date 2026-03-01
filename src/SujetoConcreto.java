@@ -1,11 +1,11 @@
+import java.util.List;
+
 /**
  * Clase para representar el combate. Para ello implementa Sujeto, 
  * mantiene una lista de observadores, permite registrarlos y quitarlos,
  * les notifica actualizaciones y puede simular un combate.
  * 
  */
-
-import java.util.List;
 
 public class SujetoConcreto implements Sujeto{
     
